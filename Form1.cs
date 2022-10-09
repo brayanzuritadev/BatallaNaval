@@ -185,7 +185,6 @@ namespace BatallaNaval
 
         private void button3_Click(object sender, EventArgs e)
         {
-
             Coordenada c = new Coordenada(int.Parse(txtFilaI.Text) - 1, diccionario[txtColumnaI.Text.ToUpper()]);
             Nave nave = new Nave()
             {

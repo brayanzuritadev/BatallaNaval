@@ -20,3 +20,14 @@ C:\Users\Brayan\Desktop\batallanavaltest\obj\Debug\BatallaNaval.csproj.GenerateR
 C:\Users\Brayan\Desktop\batallanavaltest\obj\Debug\BatallaNaval.csproj.CoreCompileInputs.cache
 C:\Users\Brayan\Desktop\batallanavaltest\obj\Debug\BatallaNaval.exe
 C:\Users\Brayan\Desktop\batallanavaltest\obj\Debug\BatallaNaval.pdb
+C:\Users\Brayan\Desktop\Nice\BatallaNaval\bin\Debug\BatallaNaval.exe.config
+C:\Users\Brayan\Desktop\Nice\BatallaNaval\bin\Debug\BatallaNaval.exe
+C:\Users\Brayan\Desktop\Nice\BatallaNaval\bin\Debug\BatallaNaval.pdb
+C:\Users\Brayan\Desktop\Nice\BatallaNaval\obj\Debug\BatallaNaval.csproj.AssemblyReference.cache
+C:\Users\Brayan\Desktop\Nice\BatallaNaval\obj\Debug\BatallaNaval.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brayan\Desktop\Nice\BatallaNaval\obj\Debug\BatallaNaval.Form1.resources
+C:\Users\Brayan\Desktop\Nice\BatallaNaval\obj\Debug\BatallaNaval.Properties.Resources.resources
+C:\Users\Brayan\Desktop\Nice\BatallaNaval\obj\Debug\BatallaNaval.csproj.GenerateResource.cache
+C:\Users\Brayan\Desktop\Nice\BatallaNaval\obj\Debug\BatallaNaval.csproj.CoreCompileInputs.cache
+C:\Users\Brayan\Desktop\Nice\BatallaNaval\obj\Debug\BatallaNaval.exe
+C:\Users\Brayan\Desktop\Nice\BatallaNaval\obj\Debug\BatallaNaval.pdb
