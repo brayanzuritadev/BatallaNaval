@@ -212,7 +212,7 @@ namespace BatallaNaval
                 label24.Text = "Se agrego correctamente el Barco";
                 actualizarCbo();
                 actualizarGrafico();
-                if (jugador1.naves.Count == 1)
+                if (jugador1.naves.Count == 5)
                 {
                     turno= 2;
                     llenarCbo();
@@ -234,7 +234,7 @@ namespace BatallaNaval
                 label24.Text = "Se agrego correctamente el Barco";
                 actualizarCbo();
                 actualizarGrafico();
-                if (jugador2.naves.Count==1)
+                if (jugador2.naves.Count==5)
                 {
                     turno = 1;
                     limpiarTablero();
